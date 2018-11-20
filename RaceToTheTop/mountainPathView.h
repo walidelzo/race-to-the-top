@@ -6,8 +6,8 @@
 //  Copyright © 2018 walid. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-
+//#import <UIKit/UIKit.h>
+#import "pathMountian.h"
 NS_ASSUME_NONNULL_BEGIN
 
 @interface mountainPathView : UIView
